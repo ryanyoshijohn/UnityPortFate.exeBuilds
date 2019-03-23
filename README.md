@@ -2,14 +2,16 @@
 
 ## Introduction
 
-.exe builds of UnityPortFate.
+This respiratory is for .exe release builds for UnityPortFate.
 
 ## Use
 
-Open the included:
+To play the game open:
 ```
 UnityPortFate.exeBuilds.rar
 ```
+then run Booga's Welcome of Fate.exe.
+Setup desired settings and press the Play button.
 
 ## License
 
